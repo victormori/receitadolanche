@@ -1,9 +1,8 @@
-1. Hambúrguer
-2. Pão (parte de baixo)
+1. Pão com gergelim
+2. Molho especial
 3. Alface
-4. Cebola
-5. Molho Especial
-6. Queijo
+4. Queijo
+5. Dois hambúrgueres
+6. Cebola
 7. Picles
-8. Hambúrguer
-9. Pão (parte de cima)
+8. Pão com gergelim (tampa)
